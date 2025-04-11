@@ -1,0 +1,8 @@
+motor.c:10:6:Servo_Control_up	24	static
+motor.c:17:6:Servo_Control_down	24	static
+motor.c:24:6:Servo_Control_a	24	static
+motor.c:31:6:Servo_Control_b	24	static
+motor.c:38:6:Servo_Control_c	24	static
+motor.c:45:6:Servo_Control_d	24	static
+motor.c:53:6:off	8	static
+motor.c:65:6:on	8	static

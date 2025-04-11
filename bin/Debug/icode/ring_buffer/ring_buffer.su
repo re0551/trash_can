@@ -1,0 +1,4 @@
+ring_buffer.c:11:6:RingBuffer_Init	16	static
+ring_buffer.c:17:6:RingBuffer_Clear	16	static
+ring_buffer.c:23:9:RingBuffer_Write	24	static
+ring_buffer.c:34:9:RingBuffer_Read	16	static

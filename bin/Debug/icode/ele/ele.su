@@ -1,0 +1,6 @@
+ele.c:10:6:dj1	16	static
+ele.c:22:6:dj2	16	static
+ele.c:37:6:dj3	16	static
+ele.c:48:6:dj1_stop	4	static
+ele.c:53:6:dj2_stop	4	static
+ele.c:58:6:dj3_stop	4	static

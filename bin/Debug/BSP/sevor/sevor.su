@@ -1,0 +1,8 @@
+sevor.c:14:6:Dir	16	static
+sevor.c:27:6:En	16	static
+sevor.c:42:6:Sevor_Init	8	static
+sevor.c:50:6:Sevor_Speed_Improve	16	static
+sevor.c:55:6:Sevor_Speed_Reduce	16	static
+sevor.c:60:6:Sevor_Angle2Pulse	16	static
+sevor.c:79:6:create_t_ctrl_param	40	static
+sevor.c:159:6:HAL_TIM_OC_DelayElapsedCallback	32	static

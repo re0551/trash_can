@@ -1,0 +1,7 @@
+main.c:86:6:HAL_GPIO_EXTI_Callback	24	static
+main.c:211:9:is_valid_data	16	static
+main.c:216:6:HAL_UART_RxCpltCallback	24	static
+main.c:235:6:ProcessBufferData	24	static
+main.c:325:5:main	8	static
+main.c:441:6:SystemClock_Config	88	static
+main.c:488:6:Error_Handler	4	static,ignoring_inline_asm
